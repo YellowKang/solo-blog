@@ -10,6 +10,7 @@ BIgKang的个人博客
 
 ### 最新
 
+* [Docker安装Zabbix](http://bigkang.club/articles/2019/08/28/1566985827883.html)
 * [MongoDB语法详解](http://bigkang.club/articles/2019/08/27/1566902997744.html)
 * [Docker快速安装MongoDB](http://bigkang.club/articles/2019/08/27/1566901696680.html)
 * [OkHttp使用与SpringBoot整合](http://bigkang.club/articles/2019/08/27/1566900029373.html)
