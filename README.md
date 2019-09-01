@@ -2,7 +2,7 @@
 BIgKang的个人博客
 </h2>
 
-<h4 align="center">何为道,何为己道,何修己道,何修天下大道</h4>
+<h4 align="center">仰天大笑撸码去，我辈岂是蓬蒿人</h4>
 <p align="center"><a title="BIgKang的个人博客" target="_blank" href="https://github.com/YellowKang/solo-blog"><img src="https://img.shields.io/github/last-commit/YellowKang/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/YellowKang/solo-blog"><img src="https://img.shields.io/github/repo-size/YellowKang/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
