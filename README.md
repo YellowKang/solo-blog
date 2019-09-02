@@ -10,6 +10,7 @@ BIgKang的个人博客
 
 ### 最新
 
+* [Docker搭建MySQL主从复制，以及主主复制](http://bigkang.club/articles/2019/09/02/1567391604428.html)
 * [Spring-Boot整合网络通信](http://bigkang.club/articles/2019/08/31/1567218931562.html)
 * [Linux用户登录安全限制](http://bigkang.club/articles/2019/08/30/1567133037884.html)
 * [Linux基本命令](http://bigkang.club/articles/2019/08/30/1567132211275.html)
