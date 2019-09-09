@@ -10,6 +10,8 @@ BIgKang的个人博客
 
 ### 最新
 
+* [SpringBoot+Redis整合使用Redis分布式锁](http://bigkang.club/articles/2019/09/09/1567995920962.html)
+* [Docker搭建Redis单机版,生产版,以及集群版](http://bigkang.club/articles/2019/09/09/1567995594941.html)
 * [Redis简介概述](http://bigkang.club/articles/2019/09/06/1567760320440.html)
 * [Zeppline数据可视化工具使用](http://bigkang.club/articles/2019/09/03/1567482272061.html)
 * [SpringBoot整合FastDFS](http://bigkang.club/articles/2019/09/03/1567481698157.html)
@@ -28,8 +30,6 @@ BIgKang的个人博客
 * [Docker安装Zabbix](http://bigkang.club/articles/2019/08/28/1566985827883.html)
 * [MongoDB语法详解](http://bigkang.club/articles/2019/08/27/1566902997744.html)
 * [Docker快速安装MongoDB](http://bigkang.club/articles/2019/08/27/1566901696680.html)
-* [OkHttp使用与SpringBoot整合](http://bigkang.club/articles/2019/08/27/1566900029373.html)
-* [使用Feign来整合Hystrix实现服务熔断](http://bigkang.club/articles/2019/08/26/1566814965770.html)
 
 ### 热门
 
@@ -37,6 +37,8 @@ BIgKang的个人博客
 * [SpringCloud-Alibaba-Nacos安装](http://bigkang.club/articles/2019/08/26/1566809544493.html)
 * [SpringBoot整合Jpa](http://bigkang.club/articles/2019/08/26/1566786598177.html)
 * [SpringBoot整合Mybatis-Plus](http://bigkang.club/articles/2019/08/26/1566802963766.html)
+* [使用Feign来整合Hystrix实现服务熔断](http://bigkang.club/articles/2019/08/26/1566814965770.html)
+* [OkHttp使用与SpringBoot整合](http://bigkang.club/articles/2019/08/27/1566900029373.html)
 * [SpringCloud整合Nacos-配置中心](http://bigkang.club/articles/2019/08/26/1566813347347.html)
 
 
