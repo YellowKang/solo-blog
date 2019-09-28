@@ -10,6 +10,10 @@ BigKang的个人开源博客
 
 ### 最新
 
+* [SpringBoot整合验证码生成](http://bigkang.club/articles/2019/09/27/1569573655358.html)
+* [Docker搭建GitLab代码仓库](http://bigkang.club/articles/2019/09/27/1569571452987.html)
+* [面试宝典之Jvm虚拟机](http://bigkang.club/articles/2019/09/27/1569571066698.html)
+* [SpringBoot整合Swagger2](http://bigkang.club/articles/2019/09/27/1569569892187.html)
 * [面试宝典之框架相关](http://bigkang.club/articles/2019/09/09/1568026014397.html)
 * [面试宝典之分布式微服务相关](http://bigkang.club/articles/2019/09/09/1568025311178.html)
 * [面试宝典之多线程](http://bigkang.club/articles/2019/09/09/1568024170012.html)
@@ -26,10 +30,6 @@ BigKang的个人开源博客
 * [Docker搭建MySQL主从复制，以及主主复制](http://bigkang.club/articles/2019/09/02/1567391604428.html)
 * [Spring-Boot整合网络通信](http://bigkang.club/articles/2019/08/31/1567218931562.html)
 * [Linux用户登录安全限制](http://bigkang.club/articles/2019/08/30/1567133037884.html)
-* [Linux基本命令](http://bigkang.club/articles/2019/08/30/1567132211275.html)
-* [Linux-CentOS安装Docker](http://bigkang.club/articles/2019/08/29/1567073633070.html)
-* [Docker命令大全--超详细](http://bigkang.club/articles/2019/08/29/1567071906021.html)
-* [设计模式概览](http://bigkang.club/articles/2019/08/29/1567069339419.html)
 
 ### 热门
 
@@ -40,10 +40,14 @@ BigKang的个人开源博客
 * [使用Feign来整合Hystrix实现服务熔断](http://bigkang.club/articles/2019/08/26/1566814965770.html)
 * [MongoDB语法详解](http://bigkang.club/articles/2019/08/27/1566902997744.html)
 * [SpringCloud整合Nacos-配置中心](http://bigkang.club/articles/2019/08/26/1566813347347.html)
+* [Linux-CentOS安装Docker](http://bigkang.club/articles/2019/08/29/1567073633070.html)
 * [OkHttp使用与SpringBoot整合](http://bigkang.club/articles/2019/08/27/1566900029373.html)
+* [Linux基本命令](http://bigkang.club/articles/2019/08/30/1567132211275.html)
 * [Docker安装Zabbix](http://bigkang.club/articles/2019/08/28/1566985827883.html)
 * [Docker快速搭建MySQL](http://bigkang.club/articles/2019/08/29/1567060727196.html)
+* [Docker命令大全--超详细](http://bigkang.club/articles/2019/08/29/1567071906021.html)
 * [Docker快速安装MongoDB](http://bigkang.club/articles/2019/08/27/1566901696680.html)
+* [设计模式概览](http://bigkang.club/articles/2019/08/29/1567069339419.html)
 
 
 
