@@ -44,10 +44,10 @@ BigKang的个人开源博客
 * [Linux-CentOS安装Docker](http://bigkang.club/articles/2019/08/29/1567073633070.html)
 * [Linux基本命令](http://bigkang.club/articles/2019/08/30/1567132211275.html)
 * [Docker安装Zabbix](http://bigkang.club/articles/2019/08/28/1566985827883.html)
-* [Docker快速安装MongoDB](http://bigkang.club/articles/2019/08/27/1566901696680.html)
 * [Docker快速搭建MySQL](http://bigkang.club/articles/2019/08/29/1567060727196.html)
-* [Docker命令大全--超详细](http://bigkang.club/articles/2019/08/29/1567071906021.html)
 * [设计模式概览](http://bigkang.club/articles/2019/08/29/1567069339419.html)
+* [Docker命令大全--超详细](http://bigkang.club/articles/2019/08/29/1567071906021.html)
+* [Docker快速安装MongoDB](http://bigkang.club/articles/2019/08/27/1566901696680.html)
 
 
 
